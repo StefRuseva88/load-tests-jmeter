@@ -1,4 +1,4 @@
-# Exercise: JMeter
+# Load Tests with JMeter
 
 ## Overview
 Assignments for the "Back-End Test Automation" course @ SoftUni. This guide introduces JMeter basics, installation, and scripting for performance testing.
