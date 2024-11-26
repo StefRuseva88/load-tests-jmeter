@@ -1,9 +1,9 @@
 # Load Tests with JMeter
+### This is a test project for **Back-End Test Automation** March 2024 Course @ SoftUni
+---
 
 ## Overview
-Assignments for the "Back-End Test Automation" course @ SoftUni. This guide introduces JMeter basics, installation, and scripting for performance testing.
-
----
+This guide introduces JMeter basics, installation, and scripting for performance testing.
 
 ## 1. Prerequisites
 - Ensure the latest Java (JVM) is installed.
