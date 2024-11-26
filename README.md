@@ -1,4 +1,8 @@
 # Load Tests with JMeter
+
+[![Apache JMeter](https://img.shields.io/badge/Performance%20Testing-JMeter-D22128.svg)](https://jmeter.apache.org/)
+[![BlazeMeter](https://img.shields.io/badge/Performance%20Testing-BlazeMeter-EF3700.svg)](https://www.blazemeter.com/)
+
 ### This is a test project for **Back-End Test Automation** March 2024 Course @ SoftUni
 ---
 
