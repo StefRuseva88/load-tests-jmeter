@@ -37,9 +37,6 @@ This guide introduces JMeter basics, installation, and scripting for performance
 ## Dynamic Data Testing
 - Use `CSV Data Set Config` for variable inputs (e.g., departure cities).
 
-### Contributing
-Contributions are welcome! Please submit a pull request or open an issue to discuss your changes.
-
 ### License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
